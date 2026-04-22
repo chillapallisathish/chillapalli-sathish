@@ -1,0 +1,6 @@
+{
+  "name": "SYS.ERR // NULL_VOID",
+  "description": "CRITICAL ERROR: MEMORY CORRUPTION DETECTED. NEURAL LINK UNSTABLE.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
